@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Youtube Clone React App
+
+![image](https://github.com/Mathuzala/Youtube-Clone-App/assets/44985594/23c31604-b6c3-4a23-8c77-ed14e00bb93a)
+
+This Youtube Clone React JS based app allows a user to search for videos based on categories or based on search input and watch videos in the app and also view related videos. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
